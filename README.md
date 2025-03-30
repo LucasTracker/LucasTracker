@@ -2,7 +2,7 @@
 
 **`Back-End Developer`**
 
-Hello Folks, My name is Lucas Souza, I have 22 years old and I am living in Sao Paulo. Nowadays I'm working with Jr. Software Quality Engineering Analyst. I'm so lovely for technology and share my acknoledgments through my Medium blog "[Medium Blog]()".
+Hello Folks, My name is Lucas Souza, I have 22 years old and I am living in Sao Paulo. Nowadays I'm working with Jr. Software Quality Engineering Analyst. I'm so lovely for technology and share my acknoledgments through my Medium blog "[Medium Blog](https://medium.com/@snowden5958)".
 
 <p align="left">
     <a href="https://github.com/LucasTracker?tab=repositories&sort=stargazers">

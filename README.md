@@ -67,6 +67,22 @@ Hello Folks, My name is Lucas Souza, I have 22 years old and I am living in Sao 
 />
 <img 
     align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Cucumber"
+    title="Cucumber" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cucumber/cucumber-plain.svg" 
+/>
+<img 
+    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
@@ -97,6 +113,14 @@ Hello Folks, My name is Lucas Souza, I have 22 years old and I am living in Sao 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Azure DevOps" 
+    title="Azure DevOps"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azuredevops/azuredevops-original.svg" 
 />
 
 <br/>

@@ -123,6 +123,39 @@ Hello, folks! My name is Lucas Souza, I'm 22 years old and currently living in S
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azuredevops/azuredevops-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Powershell" 
+    title="Powershell"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postgres" 
+    title="Postgres"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" 
+/>
 <br/>
 <br/>
 

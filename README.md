@@ -23,7 +23,7 @@ Hello, folks! My name is Lucas Souza, I'm 22 years old, and currently living in 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Programming languages and technologies
 
 <img 
     align="left" 
@@ -159,7 +159,7 @@ Hello, folks! My name is Lucas Souza, I'm 22 years old, and currently living in 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -167,7 +167,7 @@ Hello, folks! My name is Lucas Souza, I'm 22 years old, and currently living in 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasTracker&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LucasTracker&show_icons=true&theme=tokyonight" 
   />
 
 <img 

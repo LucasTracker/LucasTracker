@@ -1,6 +1,6 @@
 ## Lucas Souza
 
-**`Back-End Developer`**
+**`Fullstack Developer`**
 
 Hello, folks! My name is Lucas Souza, I'm 22 years old, and currently living in São Paulo. I'm working as a Jr. Software Quality Engineering Analyst and pursuing an MBA in Artificial Intelligence at Impacta University. I'm passionate about technology and love sharing my knowledge through my Medium blog. "[Medium Blog](https://medium.com/@snowden5958)".
 
